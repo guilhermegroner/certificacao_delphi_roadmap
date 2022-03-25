@@ -5,7 +5,8 @@ O objetivo desse repositório é catalogar os conteúdos existentes na internet 
 Link oficial [Embarcadero Certification Center](https://www.embarcadero.com/br/resources/embarcadero-certification-center).
 
 Anunciada oficialmente em junho de 2011 a nova certificação Delphi emitida pela Embarcadero se tornou muito mais acessível, pois hoje é dividida em 2 níveis, denominados  como Developer e Master Developer.
-O exame testa seu conhecimento geral dos conceitos de programação Delphi.
+
+A Certificação permite que você se destaque de todos os demais profissionais neste mercado cada vez mais competitivo. Se você está apenas começando ou é um veterano de muitos projetos, a Certificação Embarcadero Delphi demonstra a um empregador ou a um cliente em potencial que você tem o que é preciso para realizar o trabalho.
 
 **Vantagens**:
 - O teste irá identificá-lo como um membro especial da comunidade global Delphi.
