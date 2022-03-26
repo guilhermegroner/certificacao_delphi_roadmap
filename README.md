@@ -15,9 +15,41 @@ Vamos abordar abaixo com mais detalhes ambas as certificações, suas diferença
 
  
 # Certificação Delphi Developer
+O exame Delphi Certified Developer testa seu conhecimento geral dos conceitos de programação Delphi. Você será testado em sintaxe de linguagem, técnicas de programação, uso do IDE e desenvolvimento de banco de dados. 
 
+Os desenvolvedores que usarem o guia de estudo e que possuem pelo menos dois anos de experiência em programação Delphi devem ser capazes de passar no exame.
+
+**A prova está organizada em 12 seções**:
+- Delphi Fundamentals
+- Data types, variables, and Constants
+- Procedures and Functions
+- Classes and Objects
+- Object Interfaces
+- Generics, Attributes and Anonymous Method
+- Database Concepts
+- Standards Routines and I/O
+- Libraries and Packages
+- Memory Management
+- Exceptions and Assertions
+- Database Concepts
 
 # Certificação Delphi Master Developer
+
+**A prova está organizada em 12 seções**:
+
+- Delphi XE Interface and Configuration
+- Delphi VCL and RTL
+- Working with Components
+- Delphi Language and Object-Oriented Programming
+- Database Concepts/Data Access Techniques
+- dbExpress
+- DataSnap
+- Writing DLLs and Packages
+- Libraries and Packages
+- Windows Concepts
+- Component Design Basics
+- Internet Programming
+- XML
 
 
 
