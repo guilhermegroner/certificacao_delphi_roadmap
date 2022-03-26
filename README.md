@@ -34,8 +34,9 @@ Os desenvolvedores que usarem o guia de estudo e que possuem pelo menos dois ano
 - Database Concepts
 
 # Certificação Delphi Master Developer
+O exame Delphi Master Developer Certification testa seu conhecimento avançado dos conceitos de programação Delphi, opções de arquitetura de software e a profundidade e amplitude dos recursos de desenvolvimento de software do Delphi XE. Você será testado na sintaxe fundamental e avançada da linguagem Delphi, técnicas de programação, uso do IDE, construção de projetos e grupos, uso e desenvolvimento de componentes e sua experiência em arquitetura e construção de aplicativos de desktop, cliente/servidor, Internet e multicamadas. 
 
-**A prova está organizada em 12 seções**:
+**A prova está organizada em 13 seções**:
 
 - Delphi XE Interface and Configuration
 - Delphi VCL and RTL
