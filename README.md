@@ -4,7 +4,7 @@ O objetivo desse repositório é catalogar os conteúdos existentes na internet 
 ## A Certificação Delphi
 Link oficial [Embarcadero Certification Center](https://www.embarcadero.com/br/resources/embarcadero-certification-center).
 
-Anunciada oficialmente em junho de 2011 a nova certificação Delphi emitida pela Embarcadero se tornou muito mais acessível, pois hoje é dividida em 2 níveis, denominados  como Developer e Master Developer.
+Anunciada oficialmente em junho de 2011 a nova certificação Delphi emitida pela Embarcadero se tornou muito mais acessível, pois hoje é dividida em 2 níveis, denominados  como [Developer](https://www.embarcadero.com/br/resources/delphi-developer-certification) e [Master Developer](https://www.embarcadero.com/br/resources/delphi-master-developer-certification).
 
 A Certificação permite que você se destaque de todos os demais profissionais neste mercado cada vez mais competitivo. Se você está apenas começando ou é um veterano de muitos projetos, a Certificação Embarcadero Delphi demonstra a um empregador ou a um cliente em potencial que você tem o que é preciso para realizar o trabalho.
 
