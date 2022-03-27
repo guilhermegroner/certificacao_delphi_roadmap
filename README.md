@@ -1,4 +1,4 @@
-# Certificação Delphi roadmap pt-BR
+# Certificação Delphi roadmap
 O objetivo desse repositório é catalogar os conteúdos existentes na internet sobre as certificações Delphi e concatenar em uma espécie de "roadmap" para auxiliar quem busca ser um profissional certificado.
 
 ## A Certificação Delphi
@@ -52,5 +52,36 @@ O exame Delphi Master Developer Certification testa seu conhecimento avançado d
 - Internet Programming
 - XML
 
+# Informações válidas para ambas as certificações:
 
+## A Prova
+- Cada prova contém 60 perguntas em inglês;
+- 60 minutos de prazo para respostas;
+- Pontuação mínima de 48 respostas corretas(correspondendo a 80%);
+- As questões são apresentadas com múltipla escolha;
 
+## Prova - Moderada vs. Não-moderada
+O exame para a Certificação Delphi Developer é uma prova Não Moderada, ou seja:
+- Não requer moderador(prova sem supervisão);
+- O candidato pode fazer a prova de qualquer lugar do mundo com acesso a internet.
+
+O exame para a Certificação Delphi Master Developer é uma prova Moderada, ou seja:
+- Requer moderador(prova com supervisão);
+- O candidato precisa agendar a prova com um dos [parceiros de treinamento da Embarcadero](https://www.embarcadero.com/br/partners/consulting).
+
+## Aos candidatos aprovados:
+- Recebimento de uma espécie de diploma da certificação escolhida;
+- Recebimento de uma espécie de logomarca da certificação escolhida que pode ser usada na assinatura de e-mail, blogs, currículo e etc;
+- Habilitado para se tornar instrutor nos centros de treinamentos existentes.
+
+## Como se preparar?
+Ponto de partida: [Delphi Developer Certification Study Guide](https://www.embarcadero.com/images/dm/technical-papers/delphi-developer-certification-study-guide.pdf)
+
+## Sites, blogs e Livros:
+- [Embarcadero Academy](https://www.embarcaderoacademy.com/);
+- [DevMedia](https://www.devmedia.com.br/delphi/);
+- [ActiveDelphi](http://www.activedelphi.com.br/);
+- [Livro Recursos Avançados do Delphi - Marcos Cantu](https://www.amazon.com.br/Recursos-Avan%C3%A7ados-Delphi-Marco-Cant%C3%B9/dp/8586622443);
+- [Delphi Basics](http://www.delphibasics.co.uk/);
+- [About Delphi Programming](http://delphi.about.com/);
+- [Delphi Programming Wiki](http://delphi.wikia.com/wiki/Delphi_Wiki)
