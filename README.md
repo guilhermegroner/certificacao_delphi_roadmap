@@ -35,6 +35,8 @@ Os desenvolvedores que usarem o guia de estudo e que possuem pelo menos dois ano
 # Certificação Delphi Master Developer
 O exame [Delphi Master Developer Certification](https://www.embarcadero.com/br/resources/delphi-master-developer-certification) testa seu conhecimento avançado dos conceitos de programação Delphi, opções de arquitetura de software e a profundidade e amplitude dos recursos de desenvolvimento de software do Delphi XE. Você será testado na sintaxe fundamental e avançada da linguagem Delphi, técnicas de programação, uso do IDE, construção de projetos e grupos, uso e desenvolvimento de componentes e sua experiência em arquitetura e construção de aplicativos de desktop, cliente/servidor, Internet e multicamadas. 
 
+Os desenvolvedores que usarem o guia de estudo e que possuem pelo menos quatro anos de experiência em programação Delphi devem ser capazes de passar no exame.
+
 **A prova está organizada em 13 seções**:
 
 - Delphi XE Interface and Configuration
