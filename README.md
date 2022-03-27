@@ -13,9 +13,8 @@ A Certificação permite que você se destaque de todos os demais profissionais 
 
 Vamos abordar abaixo com mais detalhes ambas as certificações, suas diferenças e conteúdos que abrangem.
 
- 
 # Certificação Delphi Developer
-O exame Delphi Certified Developer testa seu conhecimento geral dos conceitos de programação Delphi. Você será testado em sintaxe de linguagem, técnicas de programação, uso do IDE e desenvolvimento de banco de dados. 
+O exame [Delphi Certified Developer](https://www.embarcadero.com/br/resources/delphi-developer-certification) testa seu conhecimento geral dos conceitos de programação Delphi. Você será testado em sintaxe de linguagem, técnicas de programação, uso do IDE e desenvolvimento de banco de dados. 
 
 Os desenvolvedores que usarem o guia de estudo e que possuem pelo menos dois anos de experiência em programação Delphi devem ser capazes de passar no exame.
 
@@ -34,7 +33,7 @@ Os desenvolvedores que usarem o guia de estudo e que possuem pelo menos dois ano
 - Database Concepts
 
 # Certificação Delphi Master Developer
-O exame Delphi Master Developer Certification testa seu conhecimento avançado dos conceitos de programação Delphi, opções de arquitetura de software e a profundidade e amplitude dos recursos de desenvolvimento de software do Delphi XE. Você será testado na sintaxe fundamental e avançada da linguagem Delphi, técnicas de programação, uso do IDE, construção de projetos e grupos, uso e desenvolvimento de componentes e sua experiência em arquitetura e construção de aplicativos de desktop, cliente/servidor, Internet e multicamadas. 
+O exame [Delphi Master Developer Certification](https://www.embarcadero.com/br/resources/delphi-master-developer-certification) testa seu conhecimento avançado dos conceitos de programação Delphi, opções de arquitetura de software e a profundidade e amplitude dos recursos de desenvolvimento de software do Delphi XE. Você será testado na sintaxe fundamental e avançada da linguagem Delphi, técnicas de programação, uso do IDE, construção de projetos e grupos, uso e desenvolvimento de componentes e sua experiência em arquitetura e construção de aplicativos de desktop, cliente/servidor, Internet e multicamadas. 
 
 **A prova está organizada em 13 seções**:
 
