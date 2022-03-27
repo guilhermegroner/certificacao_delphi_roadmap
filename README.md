@@ -86,3 +86,7 @@ Ponto de partida: [Delphi Developer Certification Study Guide](https://www.embar
 - [Delphi Basics](http://www.delphibasics.co.uk/);
 - [About Delphi Programming](http://delphi.about.com/);
 - [Delphi Programming Wiki](http://delphi.wikia.com/wiki/Delphi_Wiki)
+
+## Dúvidas comuns:
+Preciso ser aprovado na certificação Delphi Developer para então poder realizar a Master Developer?
+- R. Não, o candidato pode escolher a certificação desejada de acordo com seu nível de conhecimento. Ou seja, mesmo sem realizar o exame para Delphi Developer posso realizar o exame para a Master Developer.
