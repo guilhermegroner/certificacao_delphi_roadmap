@@ -90,3 +90,7 @@ Ponto de partida: [Delphi Developer Certification Study Guide](https://www.embar
 ## Dúvidas comuns:
 Preciso ser aprovado na certificação Delphi Developer para então poder realizar a Master Developer?
 - R. Não, o candidato pode escolher a certificação desejada de acordo com seu nível de conhecimento. Ou seja, mesmo sem realizar o exame para Delphi Developer posso realizar o exame para a Master Developer.
+
+## Grupo no WhatsApp:
+Grupo exclusivo para troca de informações, dúvidas e networking de programadores Delphi em busca da certificação.
+- [Clique para entrar no Grupo](https://chat.whatsapp.com/HU5B6dNzQUGAAehMT6BlK7);
