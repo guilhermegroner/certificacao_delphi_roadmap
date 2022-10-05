@@ -72,7 +72,6 @@ O exame para a Certificação Delphi Master Developer é uma prova Moderada, ou 
 
 ## Aos candidatos aprovados:
 - Recebimento de uma espécie de diploma da certificação escolhida;
-- Recebimento de uma espécie de logomarca da certificação escolhida que pode ser usada na assinatura de e-mail, blogs, currículo e etc;
 - Habilitado para se tornar instrutor nos centros de treinamentos existentes.
 
 ## Como se preparar?
