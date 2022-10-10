@@ -96,6 +96,9 @@ Consigo algum plugin para tradução da prova ou traduzir via meu navegador de p
 É possível avançar as questões e posteriormente navegar entre elas?
 - R. Não, não é possível avançar as questões. Deve se ter boa atenção na escolha de cada resposta, pois não será possível voltar para revisar.
 
+## Google Group(com muito conteudo):
+- [Google Group](https://groups.google.com/g/certificacao-delphi) 
+
 ## Grupo no WhatsApp:
 Grupo exclusivo para troca de informações, dúvidas e networking de programadores Delphi em busca da certificação.
 - [Clique para entrar no Grupo](https://chat.whatsapp.com/HU5B6dNzQUGAAehMT6BlK7);
