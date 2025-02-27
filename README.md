@@ -1,4 +1,5 @@
 # Certificação Delphi roadmap
+# atualizado em: 26/02/2025
 O objetivo desse repositório é catalogar os conteúdos existentes na internet sobre as certificações Delphi e concatenar em uma espécie de "roadmap" para auxiliar quem busca ser um profissional certificado.
 
 ## A Certificação Delphi
@@ -85,6 +86,8 @@ Ponto de partida: [Delphi Developer Certification Study Guide](https://www.embar
 - [Delphi Basics](http://www.delphibasics.co.uk/);
 - [About Delphi Programming](http://delphi.about.com/);
 - [Delphi Programming Wiki](http://delphi.wikia.com/wiki/Delphi_Wiki)
+- [Compilad de Questões de Exemplo para treino](https://drive.google.com/drive/folders/19iaSZOPp0omPSiiGrOOMH8W_1Nqcj7yv?usp=sharing)
+- [Simulado On-line](https://www.questionaryon.com/shared.html?uuid=b29aa1ef-583d-447a-960d-83e9a88b6135)
 
 ## Dúvidas comuns:
 Preciso ser aprovado na certificação Delphi Developer para então poder realizar a Master Developer?
